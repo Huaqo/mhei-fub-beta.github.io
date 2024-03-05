@@ -1,0 +1,21 @@
+<div class="menu">
+    <div class="accordion">
+        <div class="contentBox">
+            <div class="label"><a href="index.html">Home</a></div>
+            <div class="content"></div>
+        </div>
+        <div class="contentBox">
+            <div class="label">Alto paran atlantic forests</div>
+            <div class="content">
+                <a href="/Alto%20paran%20atlantic%20forests/apaf.html"
+                    >Field Trip 2023</a
+                ><a href="/Alto%20paran%20atlantic%20forests/indigcom.html"
+                    >Indigenous Communities</a
+                >
+            </div>
+        </div>
+    </div>
+    <button class="button" id="Btn">
+        <i class="bx bxs-chevrons-down bx-burst" style="color: #54d82d"></i>
+    </button>
+</div>
